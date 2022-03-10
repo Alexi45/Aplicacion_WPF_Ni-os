@@ -1,0 +1,14 @@
+﻿<Window x:Class="Aplicacion1.Ventanados"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aplicacion1"
+        mc:Ignorable="d"
+        Title="Ventanados" Height="450" Width="800">
+    <Grid>
+        <Border Background="AntiqueWhite">
+            <Button Width="300" Height="200" FontSize="36" Click="botonir">Entrar</Button>
+        </Border>
+    </Grid>
+</Window>

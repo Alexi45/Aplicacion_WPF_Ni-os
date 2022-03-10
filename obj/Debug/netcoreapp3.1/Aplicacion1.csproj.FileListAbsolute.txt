@@ -1,0 +1,44 @@
+C:\Users\noeli\Videos\Captures\Curso 21-22-DAM\Desarrollo de Interfaces\Aplicaciones\Aplicacion1\bin\Debug\netcoreapp3.1\Aplicacion1.exe
+C:\Users\noeli\Videos\Captures\Curso 21-22-DAM\Desarrollo de Interfaces\Aplicaciones\Aplicacion1\bin\Debug\netcoreapp3.1\Aplicacion1.deps.json
+C:\Users\noeli\Videos\Captures\Curso 21-22-DAM\Desarrollo de Interfaces\Aplicaciones\Aplicacion1\bin\Debug\netcoreapp3.1\Aplicacion1.runtimeconfig.json
+C:\Users\noeli\Videos\Captures\Curso 21-22-DAM\Desarrollo de Interfaces\Aplicaciones\Aplicacion1\bin\Debug\netcoreapp3.1\Aplicacion1.runtimeconfig.dev.json
+C:\Users\noeli\Videos\Captures\Curso 21-22-DAM\Desarrollo de Interfaces\Aplicaciones\Aplicacion1\bin\Debug\netcoreapp3.1\Aplicacion1.dll
+C:\Users\noeli\Videos\Captures\Curso 21-22-DAM\Desarrollo de Interfaces\Aplicaciones\Aplicacion1\bin\Debug\netcoreapp3.1\Aplicacion1.pdb
+C:\Users\noeli\Videos\Captures\Curso 21-22-DAM\Desarrollo de Interfaces\Aplicaciones\Aplicacion1\obj\Debug\netcoreapp3.1\Aplicacion1.csproj.AssemblyReference.cache
+C:\Users\noeli\Videos\Captures\Curso 21-22-DAM\Desarrollo de Interfaces\Aplicaciones\Aplicacion1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\noeli\Videos\Captures\Curso 21-22-DAM\Desarrollo de Interfaces\Aplicaciones\Aplicacion1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\noeli\Videos\Captures\Curso 21-22-DAM\Desarrollo de Interfaces\Aplicaciones\Aplicacion1\obj\Debug\netcoreapp3.1\Aplicacion1_MarkupCompile.cache
+C:\Users\noeli\Videos\Captures\Curso 21-22-DAM\Desarrollo de Interfaces\Aplicaciones\Aplicacion1\obj\Debug\netcoreapp3.1\Aplicacion1_MarkupCompile.lref
+C:\Users\noeli\Videos\Captures\Curso 21-22-DAM\Desarrollo de Interfaces\Aplicaciones\Aplicacion1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\noeli\Videos\Captures\Curso 21-22-DAM\Desarrollo de Interfaces\Aplicaciones\Aplicacion1\obj\Debug\netcoreapp3.1\Aplicacion1.g.resources
+C:\Users\noeli\Videos\Captures\Curso 21-22-DAM\Desarrollo de Interfaces\Aplicaciones\Aplicacion1\obj\Debug\netcoreapp3.1\Aplicacion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noeli\Videos\Captures\Curso 21-22-DAM\Desarrollo de Interfaces\Aplicaciones\Aplicacion1\obj\Debug\netcoreapp3.1\Aplicacion1.AssemblyInfoInputs.cache
+C:\Users\noeli\Videos\Captures\Curso 21-22-DAM\Desarrollo de Interfaces\Aplicaciones\Aplicacion1\obj\Debug\netcoreapp3.1\Aplicacion1.AssemblyInfo.cs
+C:\Users\noeli\Videos\Captures\Curso 21-22-DAM\Desarrollo de Interfaces\Aplicaciones\Aplicacion1\obj\Debug\netcoreapp3.1\Aplicacion1.csproj.CoreCompileInputs.cache
+C:\Users\noeli\Videos\Captures\Curso 21-22-DAM\Desarrollo de Interfaces\Aplicaciones\Aplicacion1\obj\Debug\netcoreapp3.1\Aplicacion1.dll
+C:\Users\noeli\Videos\Captures\Curso 21-22-DAM\Desarrollo de Interfaces\Aplicaciones\Aplicacion1\obj\Debug\netcoreapp3.1\Aplicacion1.pdb
+C:\Users\noeli\Videos\Captures\Curso 21-22-DAM\Desarrollo de Interfaces\Aplicaciones\Aplicacion1\obj\Debug\netcoreapp3.1\Aplicacion1.genruntimeconfig.cache
+C:\Users\noeli\Videos\Captures\Curso 21-22-DAM\Desarrollo de Interfaces\Aplicaciones\Aplicacion1\obj\Debug\netcoreapp3.1\Ventanados.g.cs
+C:\Users\noeli\Videos\Captures\Curso 21-22-DAM\Desarrollo de Interfaces\Aplicaciones\Aplicacion1\obj\Debug\netcoreapp3.1\Ventanados.baml
+C:\Users\OmenRiscart\Downloads\Aplicacion1\bin\Debug\netcoreapp3.1\Aplicacion1.exe
+C:\Users\OmenRiscart\Downloads\Aplicacion1\bin\Debug\netcoreapp3.1\Aplicacion1.deps.json
+C:\Users\OmenRiscart\Downloads\Aplicacion1\bin\Debug\netcoreapp3.1\Aplicacion1.runtimeconfig.json
+C:\Users\OmenRiscart\Downloads\Aplicacion1\bin\Debug\netcoreapp3.1\Aplicacion1.runtimeconfig.dev.json
+C:\Users\OmenRiscart\Downloads\Aplicacion1\bin\Debug\netcoreapp3.1\Aplicacion1.dll
+C:\Users\OmenRiscart\Downloads\Aplicacion1\bin\Debug\netcoreapp3.1\Aplicacion1.pdb
+C:\Users\OmenRiscart\Downloads\Aplicacion1\obj\Debug\netcoreapp3.1\Aplicacion1.csproj.AssemblyReference.cache
+C:\Users\OmenRiscart\Downloads\Aplicacion1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\OmenRiscart\Downloads\Aplicacion1\obj\Debug\netcoreapp3.1\Ventanados.g.cs
+C:\Users\OmenRiscart\Downloads\Aplicacion1\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\OmenRiscart\Downloads\Aplicacion1\obj\Debug\netcoreapp3.1\Aplicacion1_MarkupCompile.cache
+C:\Users\OmenRiscart\Downloads\Aplicacion1\obj\Debug\netcoreapp3.1\Aplicacion1_MarkupCompile.lref
+C:\Users\OmenRiscart\Downloads\Aplicacion1\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\OmenRiscart\Downloads\Aplicacion1\obj\Debug\netcoreapp3.1\Ventanados.baml
+C:\Users\OmenRiscart\Downloads\Aplicacion1\obj\Debug\netcoreapp3.1\Aplicacion1.g.resources
+C:\Users\OmenRiscart\Downloads\Aplicacion1\obj\Debug\netcoreapp3.1\Aplicacion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmenRiscart\Downloads\Aplicacion1\obj\Debug\netcoreapp3.1\Aplicacion1.AssemblyInfoInputs.cache
+C:\Users\OmenRiscart\Downloads\Aplicacion1\obj\Debug\netcoreapp3.1\Aplicacion1.AssemblyInfo.cs
+C:\Users\OmenRiscart\Downloads\Aplicacion1\obj\Debug\netcoreapp3.1\Aplicacion1.csproj.CoreCompileInputs.cache
+C:\Users\OmenRiscart\Downloads\Aplicacion1\obj\Debug\netcoreapp3.1\Aplicacion1.dll
+C:\Users\OmenRiscart\Downloads\Aplicacion1\obj\Debug\netcoreapp3.1\Aplicacion1.pdb
+C:\Users\OmenRiscart\Downloads\Aplicacion1\obj\Debug\netcoreapp3.1\Aplicacion1.genruntimeconfig.cache
